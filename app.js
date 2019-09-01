@@ -1,4 +1,7 @@
 const canvas = document.getElementById('jsCanvas');
+const ctx = canvas.getContext('2d');
+
+ctx.fillC
 
 let painting = false;
 
