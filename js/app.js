@@ -17,7 +17,6 @@ ctx.strokeStyle = INITIAL_COLOR;
 ctx.fillStyle = INITIAL_COLOR;
 ctx.lineWidth = 2.5;
 
-
 let painting = false;
 let filling = false;
 

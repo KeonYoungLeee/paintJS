@@ -27,6 +27,7 @@ body {
 .controls .controls__btn {
     margin-bottom: 30px
 }
+
 .controls__btn button {
     all: unset;
     cursor: pointer;
